@@ -1,1 +1,1 @@
-# garbage-classification
+# text-extraction-from-images
